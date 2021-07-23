@@ -1,2 +1,2 @@
 # ml--nn-onehot-example
-One hot example for Machine Learning for a Simple Neural Network
+One hot example for Machine Learning using a Simple Neural Network
